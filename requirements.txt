@@ -1,4 +1,5 @@
- streamlit
+streamlit
 transformers
 gTTS
-tensorflow
+torch
+
